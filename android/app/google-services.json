@@ -1,0 +1,119 @@
+{
+  "project_info": {
+    "project_number": "11003054145",
+    "firebase_url": "https://jagao-ae147.firebaseio.com",
+    "project_id": "jagao-ae147",
+    "storage_bucket": "jagao-ae147.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:11003054145:android:4ab63a5bd6137259205ec0",
+        "android_client_info": {
+          "package_name": "com.jagao"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "11003054145-tqoureoqug4vckraotbog8a0dhdapipb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVeRxpMU8n9OfMhPXOZ6KagAlRdQnu6wY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "11003054145-tqoureoqug4vckraotbog8a0dhdapipb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "11003054145-3k010dpeq7dv8evglcs8hnbj9blvsifi.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "dev.jagaoprovider.mobile"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:11003054145:android:bc9cc6c7ba93e9f0205ec0",
+        "android_client_info": {
+          "package_name": "com.jagaoconsumer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "11003054145-tqoureoqug4vckraotbog8a0dhdapipb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVeRxpMU8n9OfMhPXOZ6KagAlRdQnu6wY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "11003054145-tqoureoqug4vckraotbog8a0dhdapipb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "11003054145-3k010dpeq7dv8evglcs8hnbj9blvsifi.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "dev.jagaoprovider.mobile"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:11003054145:android:7f8556b72d518377205ec0",
+        "android_client_info": {
+          "package_name": "com.jagaosigner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "11003054145-tqoureoqug4vckraotbog8a0dhdapipb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVeRxpMU8n9OfMhPXOZ6KagAlRdQnu6wY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "11003054145-tqoureoqug4vckraotbog8a0dhdapipb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "11003054145-3k010dpeq7dv8evglcs8hnbj9blvsifi.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "dev.jagaoprovider.mobile"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
